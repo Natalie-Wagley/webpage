@@ -1,0 +1,191 @@
+.container {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.subheading {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1.25px;
+    font-size: 20px;  
+}
+
+
+.paragraph {
+    font-size: 16px;
+    text-align: left;
+    font-weight: 300;
+    max-width: 600px;
+    min-width: 600px;
+}
+
+
+.natalie {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #000000;
+    text-align: center;  
+}
+
+
+.intro {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px; 
+}
+
+
+.black {
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 1.25px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    padding-bottom: 5px;    
+}
+
+
+.intro-paragraph {
+    font-size: 16px;
+    font-weight: 300;
+    padding: 50px;   
+}
+
+
+.intro-paragraph-container {
+    background-color: #eeeeee;
+    margin-right: auto;
+    max-width: 492px;
+    min-width: 492px;
+}
+
+
+.gondola-img {
+    height: 369px;
+    width: 492px;
+    padding-right: 20px;
+    margin-left: auto;
+}
+
+
+.hobbies-list {
+    font-size: 16px;
+    padding-bottom: 20px;
+    font-weight: 300;    
+}
+
+
+.top-images {
+    display: flex;
+    background-color: #ffffff;
+    margin-top: 50px;  
+    margin-bottom: 50px;   
+}
+
+
+.aala-img {
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    padding: 15px;   
+}
+
+
+.ocean-img {
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+
+.eiffel-img {
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    padding: 15px;
+}
+
+
+.background-hobbies-container {
+    background-color: #EAE3CD;
+    margin-bottom: 20px; 
+    min-width: 990px;
+}
+
+
+.background-hobbies {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    min-width: 600px;
+    max-width: 600px; 
+}
+
+
+.activity-table,th {
+    border-collapse: collapse;
+    padding: 7px;
+    text-align: left;
+    font-weight: 300;
+}
+
+
+td {
+    border-bottom: 1px solid black;
+    padding: 7px;  
+}
+
+
+.table-head {
+    background-color: #6D8A85;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+
+.table-season-activity {
+    background-color: #eeeeee;
+    font-weight: 400;
+}
+
+
+.design-future-container {
+    background-color: #EAE3CD;
+    margin-bottom: 20px; 
+    min-width: 990px;
+}
+
+
+.design-future-content {
+    min-width: 600px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+
+.link-container {
+    margin-bottom: 60px;
+    margin-left: 60px;
+}
+
+
+.bottom {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: #eeeeee;
+    letter-spacing: 1.25px;
+    padding: 20px;
+    color: #000000;
+    font-weight: 500;
+    text-decoration: none;  
+}
